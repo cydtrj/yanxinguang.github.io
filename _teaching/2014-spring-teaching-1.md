@@ -7,8 +7,12 @@ venue: "September 2019 - July 2023"
 date: 2023-01-01
 location: "City, Country"
 ---
+## Abstract
+> 1. 19 News Communication Class 4&19 Network and New Media Class 0, Anhui Bengbu, September 2019 - September 2021
+> 2. Anhui University of Finance and Economics College Student Integrated Media Center, Bengbu, Anhui, December 2019 - June 2023
+> 3. WeChat official account "No. 302, Caoshan Road", Bengbu, Anhui, July 2021 - July 2022
 
-## 19 News Communication Class 4&19 Network and New Media Class 0, Anhui Bengbu, September 2019 - September 2021
+### 19 News Communication Class 4&19 Network and New Media Class 0, Anhui Bengbu, September 2019 - September 2021
 
 **Position:** Class monitor
 
@@ -18,7 +22,7 @@ location: "City, Country"
     
 
 
-## Anhui University of Finance and Economics College Student Integrated Media Center, Bengbu, Anhui, December 2019 - June 2023
+### Anhui University of Finance and Economics College Student Integrated Media Center, Bengbu, Anhui, December 2019 - June 2023
     
 **Position:** Leader
     
@@ -28,7 +32,7 @@ location: "City, Country"
     
 
     
-## WeChat official account "No. 302, Caoshan Road", Bengbu, Anhui, July 2021 - July 2022
+### WeChat official account "No. 302, Caoshan Road", Bengbu, Anhui, July 2021 - July 2022
     
 **Position:** Owner-Principal
     
