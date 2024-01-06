@@ -8,9 +8,9 @@ date: 2023-01-01
 location: "City, Country"
 ---
 ### Abstract
-> 1. 19 News Communication Class 4&19 Network and New Media Class 0, September 2019 - September 2021
-> 2. Anhui University of Finance and Economics College Student Integrated Media Center, December 2019 - June 2023
-> 3. WeChat official account "No. 302, Caoshan Road", July 2021 - July 2022
+> 1. Class monitor, 19 News Communication Class 4&19 Network and New Media Class 0, September 2019 - September 2021
+> 2. Leader, Anhui University of Finance and Economics College Student Integrated Media Center, December 2019 - June 2023
+> 3. Owner-Principal, WeChat official account "No. 302, Caoshan Road", July 2021 - July 2022
 
 ### Class monitor, 19 News Communication Class 4&19 Network and New Media Class 0, September 2019 - September 2021
 
