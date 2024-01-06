@@ -24,7 +24,8 @@ location: "City, Country"
 
     **Main responsibilities:** Responsible for collecting and writing on campus students and school activities, conducting interviews with teachers and students, and regularly organizing and writing the official WeChat "Weekly News" column and the fourth edition of Anhui University of Finance and Economics newspaper.
     **Main achievements:** Awarded the title of Excellent College Student Journalist and one of the Top 10 Student Journalists for three consecutive years
----
+
+  ---
 
 * WeChat official account "No. 302, Caoshan Road" Bengbu, Anhui July 2021-July 2022
     **Owner-Principal**
