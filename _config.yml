@@ -88,9 +88,9 @@ On this website, you can explore my resume, personal experience, and learn about
   location         : "Anhui Bozhou"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "1129953465@qq.com"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ On this website, you can explore my resume, personal experience, and learn about
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  # github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ On this website, you can explore my resume, personal experience, and learn about
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
