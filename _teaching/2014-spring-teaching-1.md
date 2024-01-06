@@ -13,9 +13,9 @@ location: "City, Country"
     **Class monitor**
 
     **Main job responsibilities:** Responsible for the affairs management, personnel management, coordination and communication, information collection, data analysis, external communication, and other aspects of a class of about 40 people. I also need to set an example and create a good learning environment for my classmates. I am willing to call it a "butler style" service job, and gradually develop my organizational and leadership skills during this experience.
-
+    
     **Main achievement:** Received the honorary recognition of the best class collective in the school for two consecutive years.
-
+    
   ---
 
 * Anhui University of Finance and Economics College Student Integrated Media Center Bengbu, Anhui December 2019 June 2023
@@ -28,6 +28,7 @@ location: "City, Country"
   ---
 
 * WeChat official account "No. 302, Caoshan Road" Bengbu, Anhui July 2021-July 2022
+    
     **Owner-Principal**
   
     **Main work:** As one of the founders of the official account, we position the official account as a practical platform for news students. We use news gathering, video interview, photo shooting and other methods to produce news for some people and things on campus and outside the school. I am mainly responsible for the selection of news topics, editing and operation of official account content.
