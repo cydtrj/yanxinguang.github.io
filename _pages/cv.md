@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Anhui University of Finance and Economics, Bengbu, Anhui, China, September 2019-July 2023
+* College of Literature, Bachelor of Arts (majoring in Network and New Media)
+* GPA: 4.28/5.0
 
 Work experience
 ======
