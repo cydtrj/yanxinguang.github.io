@@ -17,15 +17,15 @@ Education
 
 Core curriculum
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Writing & Communication (95)
+* New Media Product Creation & Planning (92)
+*  Web Design& Website Development (92)
+*  Microfilm: Direction & Production (97)
+*  New Media Communication Strategy & Practice (93)
+*  Operation & Management of Media (91)
+*  Photography & Filming (97)
+*  Communication Psychology (96)
+……
   
 Partial scholarships and honors:
 ======
