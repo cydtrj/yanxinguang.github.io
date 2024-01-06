@@ -19,9 +19,9 @@ location: "City, Country"
   ---
 
 * Anhui University of Finance and Economics College Student Integrated Media Center Bengbu, Anhui December 2019 June 2023
- 
+    
     **leader**
-
+    
     **Main responsibilities:** Responsible for collecting and writing on campus students and school activities, conducting interviews with teachers and students, and regularly organizing and writing the official WeChat "Weekly News" column and the fourth edition of Anhui University of Finance and Economics newspaper.
     **Main achievements:** Awarded the title of Excellent College Student Journalist and one of the Top 10 Student Journalists for three consecutive years
 
