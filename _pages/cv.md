@@ -15,7 +15,7 @@ Education
 * College of Literature, Bachelor of Arts (majoring in Network and New Media)
 * GPA: 4.28/5.0
 
-Work experience
+Core curriculum
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,14 +27,15 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Partial scholarships and honors:
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Anhui Provincial Excellent Graduates in 2023
+* Outstanding Graduates of Anhui University of Finance and Economics in 2023
+* Anhui University of Finance and Economics Model Three Good Students
+* Top Ten College Student Journalists from Anhui University of Finance and Economics Integrated Media Center
+* National Inspirational Scholarship
+* Guoyuan Securities Scholarship
+* First class scholarship for learning
 
 Publications
 ======
