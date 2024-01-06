@@ -9,7 +9,7 @@ paperurl: ' '
 citation: 'Guo Wenjing, Ma Zhenlong, Yan Xinguang Exploring a new path of targeted poverty alleviation in the context of "Internet plus" - taking online live streaming with goods as an example [J] Shanxi Agricultural Economics, 2021, (08): 59-60'
 ---
 
-# Project name: Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example
+## Project name: Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example
 
 **September 2020- December 2021, team project, team members**
     
