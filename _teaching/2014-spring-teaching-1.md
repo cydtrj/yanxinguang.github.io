@@ -36,6 +36,6 @@ location: "City, Country"
     
 **Position:** Owner-Principal
     
-**Main work:** As one of the founders of the official account, we position the official account as a practical platform for news students. We use news gathering, video interview, photo shooting and other methods to produce news for some people and things on campus and outside the school. I am mainly responsible for the selection of news topics, editing and operation of official account content.
+**Main responsibilities:** As one of the founders of the official account, we position the official account as a practical platform for news students. We use news gathering, video interview, photo shooting and other methods to produce news for some people and things on campus and outside the school. I am mainly responsible for the selection of news topics, editing and operation of official account content.
     
 **Main achievements:** We have produced approximately 50 new media works, with over 1000 followers and an average of over 200 views. I know this is not a prominent figure, But it's like my child, I put in a lot of effort and witnessed its growth. We produced a lot of meaningful content, including numerous meaningful thematic interviews and character interviews, such as the difficulties faced by the head of the stray animal protection base, the current situation of autistic children and families, and the stories of second-hand bookstore owners.
