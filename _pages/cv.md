@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 ***
-* Anhui University of Finance and Economics, Bengbu, Anhui, China, September 2019-July 2023
+* Anhui University of Finance and Economics, Bengbu, Anhui, China, September 2019 - July 2023
 * School of Language and Media, Bachelor of Arts (majoring in Network and New Media)
 * GPA: 3.88/4.0
 
@@ -28,11 +28,19 @@ redirect_from:
    
 ## Partial scholarships and honors:
 ***
-* Anhui Provincial Excellent Graduates , 2023
-* Outstanding Graduates of Anhui University of Finance and Economics , 2023
-* Anhui University of Finance and Economics Model Three Good Students
-* Top Ten College Student Journalists from Anhui University of Finance and Economics Integrated Media Center
-* National Inspirational Scholarship
-* Guoyuan Securities Scholarship
-* First class scholarship for learning
+### **Honors**
+* Anhui Provincial Excellent Graduates (Top 3%), 2023
+* Outstanding Graduates of Anhui University of Finance and Economics (Top 10%), 2023
+* Pacemaker to Merit Student of Anhui University of Finance and Economics (Top 5%), 2022
+* Top Ten College Student Journalists from Anhui University of Finance and Economics Integrated Media Center (Top 10%), 2022
+* Prize for The Outstanding Contribution of Anhui University of Finance and Economics (Top 1%), 2022
+* Merit Student of Anhui University of Finance and Economics (Top 10%), 2021
+* Excellent Student Cadre of Anhui University of Finance and Economics (Top 5%), 2020
+
+### **Scholarships**
+* National Encouragement scholarship, 2022
+* Guoyuan Securities Scholarship (Top 1%), 2021
+* The First Prize Scholarship (Top 5%), 2020
+* Other Individual Scholarship (Total 30), March 2020 - June 2023
+
 
