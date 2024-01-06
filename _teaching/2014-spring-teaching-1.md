@@ -1,7 +1,7 @@
 ---
 title: "Campus experience"
 collection: teaching
-type: "Experience during university"
+type: " "
 permalink: /teaching/2014-spring-teaching-1
 venue: "September 2019 - July 2023"
 date: 2023-01-01
