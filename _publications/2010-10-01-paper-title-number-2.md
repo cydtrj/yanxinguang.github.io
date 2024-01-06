@@ -6,7 +6,7 @@ excerpt: 'Project Name: Research on Enhancing the Speech Power of Persons with D
 date: 2010-10-01
 venue: 'August 2021 to May 2022'
 paperurl: ' '
-citation: ' '
+citation: 'None.'
 ---
 
 ## Project Name: Research on Enhancing the Speech Power of Persons with Disabilities in the Context of New Media
