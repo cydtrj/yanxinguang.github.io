@@ -1,5 +1,5 @@
 ---
-title: "Non fiction writing"
+title: "New media category"
 excerpt: " "
 collection: portfolio
 ---
