@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinguang Yan / Personal Website"
+title                    : "Yan Xinguang / Personal Website"
 title_separator          : "-"
-name                     : &name "Xinguang Yan"
+name                     : &name "Yan Xinguang"
 description              : &description "personal description"
 url                      : https://cydtrj.github.io/yanxinguang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinguang Yan"
+  name             : "Yan Xinguang"
   avatar           : "profile.png"
   bio              : "I want to become a more authentic person, and news gives me this strength and pursuit.
 I graduated from the School of Literature at Anhui University of Finance and Economics, majoring in Network and New Media. I am particularly interested in news and communication.
@@ -89,7 +89,7 @@ On this website, you can explore my resume, personal experience, and learn about
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "1129953465@qq.com"
+  email            : "17375235363@163.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
