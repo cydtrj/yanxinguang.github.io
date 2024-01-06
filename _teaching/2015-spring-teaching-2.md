@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "City, Country"
 ---
 ### Abstract
-> Xin'an Evening News, Bengbu Reporter Station (One of China Times Evening News), December 2019 - September 2022
+> Intern journalist, Xin'an Evening News, Bengbu Reporter Station (One of China Times Evening News), December 2019 - September 2022
 
 ### Intern journalist, Xin'an Evening News, Bengbu Reporter Station (One of China Times Evening News), December 2019 - September 2022
 
