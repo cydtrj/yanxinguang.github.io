@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 3"
+title: "2022 Anhui University of Finance and Economics Undergraduate Research and Innovation Fund Project"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Research on the Phenomenon and Governance of Online Violence in the Post Truth Era'
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'June 2022- December 2022'
+paperurl: ' '
+citation: 'None.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+## Project Name: Research on the Phenomenon and Governance of Cyber Violence in the "Post Truth" Era
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+**June 2022- December 2022, team project, team members**
+
+**Guidance Teacher: Xu Xiaojie, Associate Professor, School of Literature, Anhui University of Finance and Economics**
+
+**Project Summary:** In the "post truth" era, truth and logic are ignored in the process of information dissemination. Emotions and emotions incite public opinion, and netizens' emotions override objective facts, which becomes the main feature of online public event discussions. As information consumers in the post truth era, people use public opinion events to vent their emotions, and a series of online misconduct behaviors have emerged, becoming the cause and manifestation of online violence. This project attempts to start with the participation of "technology empowerment" in the development process of the Internet, analyze the correlation between the "post truth" era and online violence events, understand the operation mode of the truth, how to achieve goals by improving the way the truth is told, deconstruct different types of online violence phenomena, and explore the path of online social governance.
+
+**Responsibilities:** Collect and analyze social hot topics related to online violence, and analyze the process of the event rising from a social hot topic to the formation of online violence against the parties involved;
+Collect and analyze existing research on the causes and governance of online violence in China.
+
+**Achievement:** Successfully completed the project and published the paper;
