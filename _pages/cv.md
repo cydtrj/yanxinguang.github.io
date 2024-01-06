@@ -25,8 +25,7 @@ Core curriculum
 *  Operation & Management of Media (91)
 *  Photography & Filming (97)
 *  Communication Psychology (96)
-……
-  
+   
 Partial scholarships and honors:
 ======
 * Anhui Provincial Excellent Graduates in 2023
