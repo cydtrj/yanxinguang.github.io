@@ -26,7 +26,7 @@ redirect_from:
 * Photography & Filming (97)
 * Communication Psychology (96)
    
-## Partial scholarships and honors:
+## Honors and Scholarships
 ***
 ### **Honors**
 * Anhui Provincial Excellent Graduates (Top 3%), 2023
