@@ -15,7 +15,8 @@ location: "City, Country"
     **Main job responsibilities:** Responsible for the affairs management, personnel management, coordination and communication, information collection, data analysis, external communication, and other aspects of a class of about 40 people. I also need to set an example and create a good learning environment for my classmates. I am willing to call it a "butler style" service job, and gradually develop my organizational and leadership skills during this experience.
 
     **Main achievement:** Received the honorary recognition of the best class collective in the school for two consecutive years.
----
+
+  ---
 
 * Anhui University of Finance and Economics College Student Integrated Media Center Bengbu, Anhui December 2019 June 2023
  
