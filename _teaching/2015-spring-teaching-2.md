@@ -1,7 +1,7 @@
 ---
 title: "Internship experience"
 collection: teaching
-type: "Social"
+type: " "
 permalink: /teaching/2015-spring-teaching-1
 venue: "September 2019 to July 2023"
 date: 2023-01-01
