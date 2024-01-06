@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+***
 * Anhui University of Finance and Economics, Bengbu, Anhui, China, September 2019-July 2023
-* School Of Language And Media, Bachelor of Arts (majoring in Network and New Media)
-* GPA: 4.28/5.0
+* School of Language and Media, Bachelor of Arts (majoring in Network and New Media)
+* GPA: 3.88/4.0
 
 ## Core curriculum
-======
+***
 * Writing & Communication (95)
 * New Media Product Creation & Planning (92)
 * Web Design& Website Development (92)
@@ -27,7 +27,7 @@ redirect_from:
 * Communication Psychology (96)
    
 ## Partial scholarships and honors:
-======
+***
 * Anhui Provincial Excellent Graduates , 2023
 * Outstanding Graduates of Anhui University of Finance and Economics , 2023
 * Anhui University of Finance and Economics Model Three Good Students
