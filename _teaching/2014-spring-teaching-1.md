@@ -16,7 +16,7 @@ location: "City, Country"
     
 **Main achievement:** Received the honorary recognition of the best class collective in the school for two consecutive years.
     
-  ---
+
 
 ## Anhui University of Finance and Economics College Student Integrated Media Center, Bengbu, Anhui, December 2019 - June 2023
     
@@ -26,7 +26,7 @@ location: "City, Country"
     
 **Main achievements:** Awarded the title of Excellent College Student Journalist and one of the Top 10 Student Journalists for three consecutive years.
     
-  ---
+
     
 ## WeChat official account "No. 302, Caoshan Road", Bengbu, Anhui, July 2021 - July 2022
     
