@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Character interviews"
+excerpt: " "
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Content introduction:**
+
+The main theme revolves around "University Life under the Epidemic", conducting themed interviews with college students who were confined to campus during the epidemic. The interview content includes but is not limited to: What were you doing in the summer of 2019? How did you spend your campus life during the three years of the pandemic? What are the things that left a deep impression on you about the epidemic and what are the regrets? The epidemic has brought you changes and so on
+**Video link:**
+
+* Work 1:https://mp.weixin.qq.com/s/JvpKeyPRFHHsN6Y2ZIddfA
+
+* Work 2:https://mp.weixin.qq.com/s/BchJhyPJ0u7t1cI9lzdfcQ
