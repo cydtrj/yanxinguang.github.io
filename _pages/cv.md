@@ -105,7 +105,7 @@ redirect_from:
 * Won the second prize of the Sixth China International Student Innovation and Entrepreneurship Competition of Anhui University of Finance and Economics;
 * Won second prize in the 10th National Student E-commerce Innovation, Creativity and Entrepreneurship Competition of Anhui University of Finance and Economics.
 
-### Experience II: "302" New Media Studio
+### Experience Ⅱ: "302" New Media Studio
 
 #### Position and Time
 * Team Project, Leader, March 2022 - September 2022
