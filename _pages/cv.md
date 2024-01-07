@@ -118,7 +118,7 @@ redirect_from:
 * Convene regular meetings with team members on topic selection, content planning, topic selection and practice evaluation;
 * Responsible for members' article revision, video editing, article editing, content operation, etc.
 
-### Project results
+#### Project results
 * Resident in the incubation base for university students' entrepreneurship;
 * Operated and planned more than 40 issues of new media content.
 
