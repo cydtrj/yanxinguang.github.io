@@ -69,7 +69,7 @@ redirect_from:
 #### Achievements
 * The team was awarded the title of 'Excellent Practice Team' during the Anhui University of Finance and Economics Summer Social Practice Activity in 2021.
 
-****
+
 
 ### 2021 Anhui University of Finance and Economics Cold Season "Three Down to the Countryside" Social Practice Activity
 
