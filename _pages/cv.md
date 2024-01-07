@@ -96,7 +96,7 @@ redirect_from:
 #### Entrepreneurial content
 > The use of "Internet + non-heritage paper-cutting" approach, with the help of a complete online trading platform, paper-cutting craftsmen, students, paper-cutting enthusiasts three organic links, the company will establish a collection of excellent traditional culture background advertising, production and display, the production of cultural and creative products, public service collection in a single trading platform.
 
-#### Responsible for the board
+#### Responsible
 * Operate Taobao online store for daily sales, customer service response work;
 * Utilize the micro-letter public number to publicize and promote the paper-cut products and paper-cut culture.
 
@@ -113,7 +113,7 @@ redirect_from:
 #### Entrepreneurial content
 > "No. 302" New Media Studio relies on the school's journalism and communication majors, builds a platform for on- and off-campus journalism and communication practice, and becomes a practice channel between the campus and the community, integrating writing, filming, production, and operation, and operates with the microblogging public, video, jittering, and today's headlines. It operates a media matrix of microblogs, video, jittery music, and today's headlines. The studio focuses on "watching, listening and recording" to create a platform for university students to practice journalism.
 
-#### Responsible for content
+#### Responsible
 * Operate the online social media platform matrix of "No. 302" New Media Studio, update the content, maintain fans and carry out activities in a timely manner;
 * Convene regular meetings with team members on topic selection, content planning, topic selection and practice evaluation;
 * Responsible for members' article revision, video editing, article editing, content operation, etc.
