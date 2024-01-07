@@ -47,6 +47,8 @@ redirect_from:
 * The First Prize Scholarship (Top 5%), 2020
 * Other Individual Scholarship (Total 30), March 2020 - June 2023
 
+***
+
 ## Social Practice
 
 ### 2021 Anhui University of Finance and Economics summer "three to the countryside" social practice program
@@ -66,3 +68,18 @@ redirect_from:
 
 #### Achievements
 * The team was awarded the title of 'Excellent Practice Team' during the Anhui University of Finance and Economics Summer Social Practice Activity in 2021.
+
+****
+
+### 2021 Anhui University of Finance and Economics Cold Season "Three Down to the Countryside" Social Practice Activity
+
+#### Position and Time
+* Team project leader, December 2021 - March 2022
+
+#### Content
+> E-commerce is playing an increasingly important role in helping farmers alleviate poverty and promote rural revitalization. Guzhen County has explored the 'agricultural food station + outlets + poverty alleviation households' model to assist in poverty alleviation efforts. The agricultural grain station was developed by Anhui Province Green Xin Ecological Agriculture Co., Ltd. as an e-commerce platform to assist with sales. It utilizes a production and processing model of 'branch + company (cooperatives) + poverty alleviation households' and a gathering attraction mode of 'tourism + picking + Net sales (live)' to expand the income channels of farmers. This creates a closely linked agricultural industry chain for production, supply, and marketing. This study focuses on the integration of the agricultural food station industrial chain in Guzhen County as a means of promoting rural revitalization. The aim is to explore the characteristics of the agricultural products industry in Guzhen and develop a scalable e-commerce model that can help farmers and rural industries prosper. The study presents a typical case of successful online agricultural product sales and emphasizes the importance of integrating e-commerce into rural revitalization efforts.
+
+#### Achievements
+* Cultivate leading industries in rural areas, promote the quality and efficiency of agriculture；
+* Explore the new pattern of rural e-commerce and extend the agricultural industry chain；
+* Stabilize small family production and provide information services for decentralized small farmers.
