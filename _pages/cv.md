@@ -83,3 +83,45 @@ redirect_from:
 * Cultivate leading industries in rural areas, promote the quality and efficiency of agriculture；
 * Explore the new pattern of rural e-commerce and extend the agricultural industry chain；
 * Stabilize small family production and provide information services for decentralized small farmers.
+
+****
+
+## Entrepreneurial experience
+
+### Experience Ⅰ: "One Cut Legacy" Art Studio
+
+#### Position and Time
+* Team project, Team members, December 2019 - June 2021
+
+#### Entrepreneurial content
+> The use of "Internet + non-heritage paper-cutting" approach, with the help of a complete online trading platform, paper-cutting craftsmen, students, paper-cutting enthusiasts three organic links, the company will establish a collection of excellent traditional culture background advertising, production and display, the production of cultural and creative products, public service collection in a single trading platform.
+
+#### Responsible for the board
+* Operate Taobao online store for daily sales, customer service response work;
+* Utilize the micro-letter public number to publicize and promote the paper-cut products and paper-cut culture.
+
+#### Project results
+* Entered the university business incubation base and founded the company;
+* Won the second prize of the Sixth China International Student Innovation and Entrepreneurship Competition of Anhui University of Finance and Economics;
+* Won second prize in the 10th National Student E-commerce Innovation, Creativity and Entrepreneurship Competition of Anhui University of Finance and Economics.
+
+### Experience II: "302" New Media Studio
+
+#### Position and Time
+* Team Project, Leader, March 2022 - September 2022
+
+#### Entrepreneurial content
+> "No. 302" New Media Studio relies on the school's journalism and communication majors, builds a platform for on- and off-campus journalism and communication practice, and becomes a practice channel between the campus and the community, integrating writing, filming, production, and operation, and operates with the microblogging public, video, jittering, and today's headlines. It operates a media matrix of microblogs, video, jittery music, and today's headlines. The studio focuses on "watching, listening and recording" to create a platform for university students to practice journalism.
+
+#### Responsible for content
+* Operate the online social media platform matrix of "No. 302" New Media Studio, update the content, maintain fans and carry out activities in a timely manner;
+* Convene regular meetings with team members on topic selection, content planning, topic selection and practice evaluation;
+* Responsible for members' article revision, video editing, article editing, content operation, etc.
+
+### Project results
+* Resident in the incubation base for university students' entrepreneurship;
+* Operated and planned more than 40 issues of new media content.
+
+
+
+
