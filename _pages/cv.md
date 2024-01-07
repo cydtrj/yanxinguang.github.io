@@ -52,7 +52,7 @@ redirect_from:
 ### 2021 Anhui University of Finance and Economics summer "three to the countryside" social practice program
 
 #### Position and Time
-Team project leader, July 2021 - September 2021**
+* Team project leader, July 2021 - September 2021
 
 #### Content
 > Research on the local 'special culture' of Bengbu City. Bengbu City has a rich cultural history and resources, but they have not received the attention they deserve. To address this issue, I conducted research on the cultural characteristics of Bengbu City using questionnaires, field visits, interviews, documentation, and off-site study. Through this research, I discovered that some aspects of the culture are not receiving the attention they deserve. The use of questionnaires, interviews, and field visits helped me to identify these issues. Corresponding issues related to cultural neglect require attention. To assess the degree of cultural awareness among local residents, questionnaires, interviews, and field visits should be conducted. The opinions and views of the local residents should be collected and analyzed to determine the reasons for the current situation. Finally, measures should be taken to protect the city's cultural characteristics and promote outstanding cultural features. Finally, we will visit other cities with excellent cultural protection and promotion and learn from their experiences. Based on local conditions, we will propose corresponding suggestions for the Bengbu area and ultimately compile a survey report.
@@ -64,3 +64,5 @@ Team project leader, July 2021 - September 2021**
 * Lead the team members to visit and study in other places to learn from successful experiences and produce written materials.
 * Organize the survey report in a clear and well-structured manner for reference.
 
+#### Achievements
+* The team was awarded the title of 'Excellent Practice Team' during the Anhui University of Finance and Economics Summer Social Practice Activity in 2021.
