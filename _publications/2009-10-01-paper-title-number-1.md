@@ -29,5 +29,5 @@ citation: 'None.'
 
 ### Result
 * Successfully completed the project completion work;
-* Publish in Shanxi Agricultural Economics，Issue 8, 2021.
+* Published in Shanxi Agricultural Economics，Issue 8, 2021.
 
