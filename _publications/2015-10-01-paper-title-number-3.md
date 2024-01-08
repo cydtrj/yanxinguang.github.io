@@ -1,5 +1,5 @@
 ---
-title: "Research 3: Analysis of the Phenomenon and Governance of Online Violence in the Post-Truth Era"
+title: "Research 1: Analysis of the Phenomenon and Governance of Online Violence in the Post-Truth Era"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Supported by 2022 Anhui University of Finance and Economics Undergraduate Research and Innovation Fund Project'
