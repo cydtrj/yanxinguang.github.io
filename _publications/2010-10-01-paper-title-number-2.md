@@ -33,4 +33,4 @@ citation: 'None.'
 ## Result
 
 * Successfully completed the project and published a paper.
-
+* Publish in Wisdom East, Volume 10 Issue 42, 2022.
