@@ -10,7 +10,7 @@ citation: 'None.'
 ---
 ### Title
 
-#### Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example
+#### Analysis of the Phenomenon and Governance of Online Violence in the Post-Truth Era
 
 ### Time and Position
 > September 2020 - December 2021, Team project, Team members
