@@ -10,7 +10,7 @@ citation: 'None.'
 ---
 ## Title
 
-### *《Analysis of the Phenomenon and Governance of Online Violence in the Post-Truth Era》*
+### *Analysis of the Phenomenon and Governance of Online Violence in the Post-Truth Era*
 
 ## Time and Position
 * June 2022 - December 2022, Team project, Team members
