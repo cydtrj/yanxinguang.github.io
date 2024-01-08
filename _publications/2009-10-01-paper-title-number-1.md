@@ -3,7 +3,7 @@ title: "Research 3: Exploring a new path of targeted poverty alleviation in the 
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Supported by 2020 National College Student Innovation and Entrepreneurship Training Program Project'
-date: 2020-09-01
+date: 2021-09-01
 venue: 'Shanxi Agricultural Economics，Issue 8, 2021'
 paperurl: ' '
 citation: 'None.'
