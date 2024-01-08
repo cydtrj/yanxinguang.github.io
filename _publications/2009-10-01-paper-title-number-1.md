@@ -6,7 +6,7 @@ excerpt: '2022 Anhui University of Finance and Economics Undergraduate Research 
 date: 2022-12-01
 venue: 'Frontiers in Economics and Managemen, Volume 3 Issue 10, 2022'
 paperurl: ' '
-citation: ' '
+citation: 'None.'
 ---
 
 ## Project name
