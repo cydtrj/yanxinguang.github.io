@@ -13,10 +13,10 @@ citation: 'None.'
 ### 《Research on Enhancing Discourse Power of People with Disabilities through New Media Empowerment》
 
 ## Time and Position
-August 2021 - May 2022, Team project leader
+* August 2021 - May 2022, Team project leader
 
 ## Guidance Teacher
-Xu Xiaojie, Associate Professor, Anhui University of Finance and Economics
+* Xu Xiaojie, Associate Professor, Anhui University of Finance and Economics
 
 ## Project Introduction
 
