@@ -10,7 +10,7 @@ citation: 'None.'
 ---
 ### Title
 
-> **Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example**
+#### Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example
 
 ### Time and Position
 > September 2020 - December 2021, Team project, Team members
@@ -24,16 +24,13 @@ citation: 'None.'
 
 ### Responsibilities
 
-* Responsible for analyzing the current situation of combining live streaming sales with rural poverty alleviation and providing suggestions and measures;
+> * **Responsible for analyzing the current situation of combining live streaming sales with rural poverty alleviation and providing suggestions and measures;**
+> * **Assist the team leader in completing the project paper writing task.**
 
-* Assist the team leader in completing the project paper writing task;
+### Result
 
+> * Successfully completed the project completion work;
+> * Publish academic papers
 
-
-
-
-**Result: Successfully completed the project completion work;
-Publish academic papers**
-
-(Guo Wenjing, Ma Zhenlong, **Yan Xinguang**. Exploring a new path of targeted poverty alleviation in the context of "Internet plus" - taking online live streaming with goods as an example [J]. Shanxi Agricultural Economy, **2021**, (08): 59-60.)
+*Guo Wenjing, Ma Zhenlong, **Yan Xinguang**. Exploring a new path of targeted poverty alleviation in the context of "Internet plus" - taking online live streaming with goods as an example [J]. Shanxi Agricultural Economy, **2021**, (08): 59-60.*
 
