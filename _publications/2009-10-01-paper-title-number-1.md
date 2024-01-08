@@ -1,5 +1,5 @@
 ---
-title: "Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example"
+title: "Research 1: Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Supported by 2020 National College Student Innovation and Entrepreneurship Training Program Project'
