@@ -1,16 +1,16 @@
 ---
-title: "Research 2: Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example"
+title: "Research 2: Analysis of the Phenomenon and Governance of Online Violence in the Post-Truth Era"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Supported by 2022 Anhui University of Finance and Economics Undergraduate Research and Innovation Fund Project'
 date: 2022-10-01
-venue: 'Shanxi Agricultural Economics，Issue 8, 2021'
+venue: 'Frontiers in Economics and Management, Volume 3 Issue 10, 2022'
 paperurl: ' '
 citation: 'None.'
 ---
 ## Title
 
-### *《Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example》*
+### *《Analysis of the Phenomenon and Governance of Online Violence in the Post-Truth Era》*
 
 ## Time and Position
 * June 2022 - December 2022, Team project, Team members
