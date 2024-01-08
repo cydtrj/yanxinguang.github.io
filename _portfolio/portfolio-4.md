@@ -1,5 +1,5 @@
 ---
-title: "Survey type"
+title: "Investigative Reports"
 excerpt: " "
 collection: portfolio
 ---
