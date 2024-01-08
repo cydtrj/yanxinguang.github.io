@@ -3,7 +3,7 @@ title: "Research 2: Research on Enhancing Discourse Power of People with Disabil
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Supported by 2021 National College Student Innovation and Entrepreneurship Training Program Project'
-date: 2021-10-01
+date: 2022-10-01
 venue: 'Wisdom East, Volume 10 Issue 42, 2022'
 paperurl: ' '
 citation: 'None.'
