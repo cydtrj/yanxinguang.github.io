@@ -1,5 +1,5 @@
 ---
-title: "Message Class"
+title: "Message"
 excerpt: " "
 collection: portfolio
 ---
