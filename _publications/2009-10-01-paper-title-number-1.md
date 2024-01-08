@@ -13,10 +13,10 @@ citation: 'None.'
 ### 《Analysis of the Phenomenon and Governance of Online Violence in the Post-Truth Era》
 
 ## Time and Position
-September 2020 - December 2021, Team project, Team members
+* September 2020 - December 2021, Team project, Team members
 
 ## Guidance Teacher
-Tan Rui, Associate Professor, Anhui University of Finance and Economics
+* Tan Rui, Associate Professor, Anhui University of Finance and Economics
 
 ## Project Introduction
 
