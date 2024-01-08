@@ -51,7 +51,7 @@ redirect_from:
 
 ## Social Practice
 
-### 2021 Anhui University of Finance and Economics summer "three to the countryside" social practice program
+### Project Ⅰ: 2021 Anhui University of Finance and Economics summer "three to the countryside" social practice program
 
 #### Position and Time
 * Team project leader, July 2021 - September 2021
@@ -71,7 +71,7 @@ redirect_from:
 
 
 
-### 2021 Anhui University of Finance and Economics Cold Season "Three Down to the Countryside" Social Practice Activity
+### Project Ⅱ: 2021 Anhui University of Finance and Economics Cold Season "Three Down to the Countryside" Social Practice Activity
 
 #### Position and Time
 * Team project leader, December 2021 - March 2022
