@@ -10,7 +10,7 @@ citation: 'None.'
 ---
 ## Title
 
-### *《Research on Enhancing Discourse Power of People with Disabilities through New Media Empowerment》*
+### *Research on Enhancing Discourse Power of People with Disabilities through New Media Empowerment*
 
 ## Time and Position
 * August 2021 - May 2022, Team project leader
