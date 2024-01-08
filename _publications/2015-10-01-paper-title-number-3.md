@@ -2,7 +2,7 @@
 title: "Research 3: Exploring a new path of targeted poverty alleviation in the context of Internet plus - taking online live streaming as an example"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '2022 Anhui University of Finance and Economics Undergraduate Research and Innovation Fund Project'
+excerpt: 'Supported by 2022 Anhui University of Finance and Economics Undergraduate Research and Innovation Fund Project'
 date: 2022-10-01
 venue: 'Shanxi Agricultural Economics，Issue 8, 2021'
 paperurl: ' '
