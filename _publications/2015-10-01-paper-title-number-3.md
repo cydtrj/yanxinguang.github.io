@@ -30,4 +30,4 @@ citation: 'None.'
 ## Result
 
 * Successfully completed the project and published the paper.
-
+* Published in Frontiers in Economics and Management, Volume 3 Issue 10, 2022
