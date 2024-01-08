@@ -29,7 +29,5 @@ citation: 'None.'
 
 ### Result
 * Successfully completed the project completion work;
-* Publish academic papers
-
-*Guo Wenjing, Ma Zhenlong, **Yan Xinguang**. Exploring a new path of targeted poverty alleviation in the context of "Internet plus" - taking online live streaming with goods as an example [J]. Shanxi Agricultural Economy, **2021**, (08): 59-60.*
+* Publish in Shanxi Agricultural Economics，Issue 8, 2021
 
