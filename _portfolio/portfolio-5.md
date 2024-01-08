@@ -1,5 +1,5 @@
 ---
-title: "Communication"
+title: "Newsletter"
 excerpt: " "
 collection: portfolio
 ---
