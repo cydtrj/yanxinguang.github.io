@@ -33,4 +33,4 @@ citation: 'None.'
 ## Result
 
 * Successfully completed the project and published a paper.
-* Published in Wisdom East, Volume 10 Issue 42, 2022.
+* Published in Wisdom East, Volume 10 Issue 42, 2022, Yulan Guang, Xinguang Yan.
