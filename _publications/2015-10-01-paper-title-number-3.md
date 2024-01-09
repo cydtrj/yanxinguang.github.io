@@ -16,7 +16,7 @@ citation: 'None.'
 * June 2022 - December 2022, Team project, Team members
 
 ## Guidance Teacher
-* Xu Xiaojie, Associate Professor, School of Literature, Anhui University of Finance and Economics
+* Xiaojie Xu, Associate Professor, School of Literature, Anhui University of Finance and Economics
 
 ## Project Introduction
 
