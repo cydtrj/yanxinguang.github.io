@@ -16,7 +16,7 @@ citation: 'None.'
 * September 2020 - December 2021, Team project, Team members
 
 ## Guidance Teacher
-* Tan Rui, Associate Professor, Anhui University of Finance and Economics
+* Rui Tan, Associate Professor, Anhui University of Finance and Economics
 
 ## Project Introduction
 
