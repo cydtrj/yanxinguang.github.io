@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Xinguang / Personal Website"
+title                    : "XinGuang Yan / Personal Website"
 title_separator          : "-"
-name                     : &name "Yan Xinguang"
+name                     : &name "XinGuang Yan"
 description              : &description "personal description"
 url                      : https://cydtrj.github.io/yanxinguang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yan Xinguang"
+  name             : "XinGuang Yan"
   avatar           : "profile.png"
   bio              : "Where there's a will there's a way."
   location         : "Anhui"
