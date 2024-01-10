@@ -43,8 +43,8 @@ redirect_from:
 
 ### **Scholarships**
 * National Encouragement scholarship, 2022
+* The First Prize Scholarship (Top 5%), 2022
 * Guoyuan Securities Scholarship (Top 1%), 2021
-* The First Prize Scholarship (Top 5%), 2020
 * Other Individual Scholarship (Total 30), March 2020 - June 2023
 
 ***
